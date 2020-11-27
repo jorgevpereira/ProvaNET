@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Curriculo\\Exercicio\\ProvaNET\\ProvaNET\\ProvaNET.csproj": {}
+  },
+  "projects": {
+    "F:\\Curriculo\\Exercicio\\ProvaNET\\ProvaNET\\ProvaNET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Curriculo\\Exercicio\\ProvaNET\\ProvaNET\\ProvaNET.csproj",
+        "projectName": "ProvaNET",
+        "projectPath": "F:\\Curriculo\\Exercicio\\ProvaNET\\ProvaNET\\ProvaNET.csproj",
+        "packagesPath": "C:\\Users\\brx0000008\\.nuget\\packages\\",
+        "outputPath": "F:\\Curriculo\\Exercicio\\ProvaNET\\ProvaNET\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brx0000008\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://procde.prosegur.com/artifactory/api/nuget/summer.net-nuget-local": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
